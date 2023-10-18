@@ -1,17 +1,12 @@
-# Constra - Free bootstrap construction template
-
-Constra is a theme for professional builders, construction or even industrial production companies with a focus on presenting the team, current and recent projects. Responsive development of the layouts makes the theme look good on any modern device.
-
-<!-- demo -->
 ## Example Site
 
-| [![](screenshots/homepage-1.png)](https://demo.themefisher.com/constra/) | [![](screenshots/homepage-2.png)](https://demo.themefisher.com/constra/index-2.html) | [![](screenshots/about.png)](https://demo.themefisher.com/constra/about.html) |
+| [![](screenshots/homepage-1.png)] | [![](screenshots/homepage-2.png)] | [![](screenshots/about.png)] |
 |:---:|:---:|:---:|
 | **Homepage 1**  | **Homepage 2**  | **About**  |
-| [![](screenshots/service.png)](https://demo.themefisher.com/constra/services.html) | [![](screenshots/project.png)](https://demo.themefisher.com/constra/projects.html) | [![](screenshots/news.png)](https://demo.themefisher.com/constra/news-right-sidebar.html) |
+| [![](screenshots/service.png)] | [![](screenshots/project.png)] | [![](screenshots/news.png)] |
 | **Service** | **Project** | **News** |
 
-👉🏻[View Live Preview](https://demo.themefisher.com/constra/)
+👉🏻[View Live Preview](https://subhani57.github.io/constructioncompany/)
 
 <!-- resources -->
 ## Pages
@@ -33,11 +28,6 @@ Constra is a theme for professional builders, construction or even industrial pr
 * **404**
 * **Typography**
 * **Contact**
-
-<!-- download -->
-## Download And installation
-
-Download this template from [Github](https://github.com/themefisher/constra/archive/main.zip)
 
 <!-- installation -->
 ### Basic Usages
@@ -89,23 +79,9 @@ Now you get a `theme` folder that has all the changes you have made. you can use
 
 👉🏻 [visit documentation](https://docs.themefisher.com/constra/)
 
-<!-- reporting issue -->
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Constra Template. Please Search [existing issues](https://github.com/themefisher/Constra-Bootstrap-Construction-Template/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Constra-Bootstrap-Construction-Template/issues).
-
-<!-- support -->
-## Technical Support or Questions (Paid)
-
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
-
-<!-- licence -->
 ## License
 
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
-
-**Code License:** Released under the [MIT](https://github.com/themefisher/constra/blob/main/LICENSE) license.
+Copyright (c) 2016 - Present, Designed & Developed by Ali Subhani
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 
